@@ -67,7 +67,7 @@ a:hover { text-decoration: underline; }
 .quick-info li { margin: 0.2rem 0; color: var(--muted); }
 .hero-media img {
   width: 100%;
-  border-radius: 50px;
+  border-radius: 500px;
   border: 1px solid var(--border);
   background: var(--card);
   object-fit: cover;
