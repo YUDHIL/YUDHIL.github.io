@@ -71,6 +71,7 @@ a:hover { text-decoration: underline; }
   border: 1px solid var(--border);
   background: var(--card);
   object-fit: cover;
+  height: auto;
 }
 
 .section { padding: 2.2rem 0; border-bottom: 1px solid var(--border); }
