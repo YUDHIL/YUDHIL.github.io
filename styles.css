@@ -67,12 +67,12 @@ a:hover { text-decoration: underline; }
 .quick-info li { margin: 0.2rem 0; color: var(--muted); }
 .hero-media img {
   width: 100%;
-  border-radius: 12px;
+  border-radius: 50px;
   border: 1px solid var(--border);
   background: var(--card);
   object-fit: cover;
   aspect-ratio: 1/1;
-  border: 50px solid var(--card);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
 .section { padding: 2.2rem 0; border-bottom: 1px solid var(--border); }
