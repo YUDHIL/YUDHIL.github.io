@@ -72,6 +72,7 @@ a:hover { text-decoration: underline; }
   background: var(--card);
   object-fit: cover;
   aspect-ratio: 1/1;
+  border: 50px solid var(--card);
 }
 
 .section { padding: 2.2rem 0; border-bottom: 1px solid var(--border); }
